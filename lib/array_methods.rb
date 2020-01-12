@@ -2,7 +2,8 @@ def find_element_index(array, value_to_find)
   i=0 
   while i < array.length 
   item = i 
-  
+  i += 1 
+  retun 
   # Add your solution here
 end
 
